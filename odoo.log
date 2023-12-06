@@ -1,0 +1,299 @@
+2023-12-06 22:26:34,340 7432 INFO ? odoo: Odoo version 17.0-20231206 
+2023-12-06 22:26:34,340 7432 INFO ? odoo: Using configuration file at G:\Program Files\Odoo\Odoo17\server\odoo.conf 
+2023-12-06 22:26:34,340 7432 INFO ? odoo: addons paths: ['G:\\Program Files\\Odoo\\Odoo17\\server\\odoo\\addons', 'g:\\program files\\odoo\\odoo17\\sessions\\addons\\17.0', 'g:\\program files\\odoo\\odoo17\\server\\odoo\\addons'] 
+2023-12-06 22:26:34,340 7432 INFO ? odoo: database: openpg@localhost:5432 
+2023-12-06 22:26:36,518 7432 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at G:\Program Files\Odoo\Odoo17\thirdparty\wkhtmltopdf.exe 
+2023-12-06 22:26:38,691 7432 INFO ? odoo.service.server: Initiating shutdown 
+2023-12-06 22:26:38,692 7432 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2023-12-06 22:26:44,817 6660 INFO ? odoo: Odoo version 17.0-20231206 
+2023-12-06 22:26:44,817 6660 INFO ? odoo: Using configuration file at G:\Program Files\Odoo\Odoo17\server\odoo.conf 
+2023-12-06 22:26:44,817 6660 INFO ? odoo: addons paths: ['G:\\Program Files\\Odoo\\Odoo17\\server\\odoo\\addons', 'g:\\program files\\odoo\\odoo17\\sessions\\addons\\17.0', 'g:\\program files\\odoo\\odoo17\\server\\odoo\\addons'] 
+2023-12-06 22:26:44,817 6660 INFO ? odoo: database: openpg@localhost:5432 
+2023-12-06 22:26:44,974 6660 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at G:\Program Files\Odoo\Odoo17\thirdparty\wkhtmltopdf.exe 
+2023-12-06 22:26:45,273 6660 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-H9LG14N:8069 
+2023-12-06 22:26:49,296 6660 INFO ? odoo.sql_db: Connection to the database failed 
+2023-12-06 22:26:53,415 6660 INFO ? odoo.sql_db: Connection to the database failed 
+2023-12-06 22:33:43,398 984 INFO ? odoo: Odoo version 17.0-20231206 
+2023-12-06 22:33:43,398 984 INFO ? odoo: Using configuration file at G:\Program Files\Odoo\Odoo17\server\odoo.conf 
+2023-12-06 22:33:43,398 984 INFO ? odoo: addons paths: ['G:\\Program Files\\Odoo\\Odoo17\\server\\odoo\\addons', 'g:\\program files\\odoo\\odoo17\\sessions\\addons\\17.0', 'g:\\program files\\odoo\\odoo17\\server\\odoo\\addons'] 
+2023-12-06 22:33:43,399 984 INFO ? odoo: database: openpg@localhost:5432 
+2023-12-06 22:33:43,560 984 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at G:\Program Files\Odoo\Odoo17\thirdparty\wkhtmltopdf.exe 
+2023-12-06 22:33:45,115 984 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-H9LG14N:8069 
+2023-12-06 22:33:47,914 984 INFO ? odoo.sql_db: Connection to the database failed 
+2023-12-06 22:33:52,031 984 INFO ? odoo.sql_db: Connection to the database failed 
+2023-12-06 22:33:52,660 984 INFO ? odoo.service.server: Initiating shutdown 
+2023-12-06 22:33:52,661 984 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2023-12-06 22:33:52,748 984 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 0 connections  
+2023-12-06 22:57:08,855 2260 INFO ? odoo: Odoo version 17.0-20231206 
+2023-12-06 22:57:08,855 2260 INFO ? odoo: Using configuration file at G:\Program Files\Odoo\Odoo17\server\odoo.conf 
+2023-12-06 22:57:08,855 2260 INFO ? odoo: addons paths: ['G:\\Program Files\\Odoo\\Odoo17\\server\\odoo\\addons', 'g:\\program files\\odoo\\odoo17\\sessions\\addons\\17.0', 'g:\\program files\\odoo\\odoo17\\server\\odoo\\addons'] 
+2023-12-06 22:57:08,855 2260 INFO ? odoo: database: openpg@localhost:5432 
+2023-12-06 22:57:09,040 2260 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at G:\Program Files\Odoo\Odoo17\thirdparty\wkhtmltopdf.exe 
+2023-12-06 22:57:09,346 2260 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-H9LG14N:8069 
+2023-12-06 22:59:36,005 14064 INFO ? odoo: Odoo version 17.0-20231206 
+2023-12-06 22:59:36,006 14064 INFO ? odoo: Using configuration file at G:\Program Files\Odoo\Odoo17\server\odoo.conf 
+2023-12-06 22:59:36,006 14064 INFO ? odoo: addons paths: ['G:\\Program Files\\Odoo\\Odoo17\\server\\odoo\\addons', 'g:\\program files\\odoo\\odoo17\\sessions\\addons\\17.0', 'g:\\program files\\odoo\\odoo17\\server\\odoo\\addons'] 
+2023-12-06 22:59:36,006 14064 INFO ? odoo: database: openpg@localhost:5432 
+2023-12-06 22:59:36,179 14064 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at G:\Program Files\Odoo\Odoo17\thirdparty\wkhtmltopdf.exe 
+2023-12-06 22:59:36,499 14064 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-H9LG14N:8069 
+2023-12-06 23:00:36,366 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:00:36] "GET /web HTTP/1.1" 303 - 2 0.008 0.183
+2023-12-06 23:00:39,790 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:00:39] "GET /web/database/selector HTTP/1.1" 200 - 2 0.006 3.408
+2023-12-06 23:00:39,929 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:00:39] "GET /web/static/lib/bootstrap/dist/css/bootstrap.css HTTP/1.1" 200 - 1 0.004 0.103
+2023-12-06 23:00:39,929 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:00:39] "GET /web/static/src/libs/fontawesome/css/font-awesome.css HTTP/1.1" 200 - 1 0.003 0.105
+2023-12-06 23:00:39,986 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:00:39] "GET /web/static/img/logo2.png HTTP/1.1" 200 - 1 0.005 0.158
+2023-12-06 23:00:39,986 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:00:39] "GET /web/static/img/favicon.ico HTTP/1.1" 200 - 1 0.004 0.092
+2023-12-06 23:00:39,989 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:00:39] "GET /web/static/src/libs/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 - 1 0.005 0.077
+2023-12-06 23:01:30,505 6660 INFO None odoo.service.db: Create database `restaurant`. 
+2023-12-06 23:01:32,970 6660 INFO restaurant odoo.modules.loading: loading 1 modules... 
+2023-12-06 23:01:32,970 6660 INFO restaurant odoo.modules.loading: Loading module base (1/1) 
+2023-12-06 23:01:32,995 6660 INFO restaurant odoo.modules.registry: module base: creating or updating database tables 
+2023-12-06 23:01:33,759 6660 INFO restaurant odoo.models: Prepare computation of ir.module.module.menus_by_module 
+2023-12-06 23:01:33,759 6660 INFO restaurant odoo.models: Prepare computation of ir.module.module.reports_by_module 
+2023-12-06 23:01:33,760 6660 INFO restaurant odoo.models: Prepare computation of ir.module.module.views_by_module 
+2023-12-06 23:01:34,065 6660 INFO restaurant odoo.models: Prepare computation of res.partner.user_id 
+2023-12-06 23:01:34,065 6660 INFO restaurant odoo.models: Prepare computation of res.partner.commercial_partner_id 
+2023-12-06 23:01:34,065 6660 INFO restaurant odoo.models: Prepare computation of res.partner.complete_name 
+2023-12-06 23:01:34,065 6660 INFO restaurant odoo.models: Prepare computation of res.partner.company_registry 
+2023-12-06 23:01:34,065 6660 INFO restaurant odoo.models: Prepare computation of res.partner.commercial_company_name 
+2023-12-06 23:01:34,065 6660 INFO restaurant odoo.models: Prepare computation of res.partner.partner_share 
+2023-12-06 23:01:34,164 6660 INFO restaurant odoo.models: Prepare computation of res.currency.decimal_places 
+2023-12-06 23:01:34,229 6660 INFO restaurant odoo.models: Prepare computation of res.company.uses_default_logo 
+2023-12-06 23:01:34,230 6660 INFO restaurant odoo.models: Prepare computation of res.company.logo_web 
+2023-12-06 23:01:34,235 6660 INFO restaurant odoo.models: Computing parent_path for table res_company... 
+2023-12-06 23:01:34,298 6660 INFO restaurant odoo.models: Prepare computation of res.users.signature 
+2023-12-06 23:01:34,298 6660 INFO restaurant odoo.models: Prepare computation of res.users.share 
+2023-12-06 23:01:37,025 6660 INFO restaurant odoo.modules.loading: loading base/data/res_bank.xml 
+2023-12-06 23:01:37,043 6660 INFO restaurant odoo.modules.loading: loading base/data/res.lang.csv 
+2023-12-06 23:01:37,102 6660 INFO restaurant odoo.modules.loading: loading base/data/res_lang_data.xml 
+2023-12-06 23:01:37,153 6660 INFO restaurant odoo.modules.loading: loading base/data/res_partner_data.xml 
+2023-12-06 23:01:37,244 6660 INFO restaurant odoo.modules.loading: loading base/data/res_currency_data.xml 
+2023-12-06 23:01:37,925 6660 INFO restaurant odoo.modules.loading: loading base/data/res_company_data.xml 
+2023-12-06 23:01:37,944 6660 INFO restaurant odoo.modules.loading: loading base/data/res_users_data.xml 
+2023-12-06 23:01:38,616 6660 INFO restaurant odoo.modules.loading: loading base/data/report_paperformat_data.xml 
+2023-12-06 23:01:38,630 6660 INFO restaurant odoo.modules.loading: loading base/data/res_country_data.xml 
+2023-12-06 23:01:39,128 6660 INFO restaurant odoo.modules.loading: loading base/data/ir_demo_data.xml 
+2023-12-06 23:01:39,146 6660 INFO restaurant odoo.modules.loading: loading base/security/base_groups.xml 
+2023-12-06 23:01:39,403 6660 INFO restaurant odoo.modules.loading: loading base/security/base_security.xml 
+2023-12-06 23:01:39,527 6660 INFO restaurant odoo.modules.loading: loading base/views/base_menus.xml 
+2023-12-06 23:01:39,641 6660 INFO restaurant odoo.modules.loading: loading base/views/decimal_precision_views.xml 
+2023-12-06 23:01:39,686 6660 INFO restaurant odoo.modules.loading: loading base/views/res_config_views.xml 
+2023-12-06 23:01:39,704 6660 INFO restaurant odoo.modules.loading: loading base/data/res.country.state.csv 
+2023-12-06 23:01:40,468 6660 INFO restaurant odoo.modules.loading: loading base/views/ir_actions_views.xml 
+2023-12-06 23:01:40,627 6660 INFO restaurant odoo.modules.loading: loading base/views/ir_asset_views.xml 
+2023-12-06 23:01:40,654 6660 INFO restaurant odoo.modules.loading: loading base/views/ir_config_parameter_views.xml 
+2023-12-06 23:01:40,679 6660 INFO restaurant odoo.modules.loading: loading base/views/ir_cron_views.xml 
+2023-12-06 23:01:40,725 6660 INFO restaurant odoo.modules.loading: loading base/views/ir_cron_trigger_views.xml 
+2023-12-06 23:01:40,751 6660 INFO restaurant odoo.modules.loading: loading base/views/ir_filters_views.xml 
+2023-12-06 23:01:40,777 6660 INFO restaurant odoo.modules.loading: loading base/views/ir_mail_server_views.xml 
+2023-12-06 23:01:40,806 6660 INFO restaurant odoo.modules.loading: loading base/views/ir_model_views.xml 
+2023-12-06 23:01:40,976 6660 INFO restaurant odoo.modules.loading: loading base/views/ir_attachment_views.xml 
+2023-12-06 23:01:41,009 6660 INFO restaurant odoo.modules.loading: loading base/views/ir_rule_views.xml 
+2023-12-06 23:01:41,046 6660 INFO restaurant odoo.modules.loading: loading base/views/ir_sequence_views.xml 
+2023-12-06 23:01:41,076 6660 INFO restaurant odoo.modules.loading: loading base/views/ir_ui_menu_views.xml 
+2023-12-06 23:01:41,128 6660 INFO restaurant odoo.modules.loading: loading base/views/ir_ui_view_views.xml 
+2023-12-06 23:01:41,183 6660 INFO restaurant odoo.modules.loading: loading base/views/ir_default_views.xml 
+2023-12-06 23:01:41,208 6660 INFO restaurant odoo.modules.loading: loading base/data/ir_cron_data.xml 
+2023-12-06 23:01:41,228 6660 INFO restaurant odoo.modules.loading: loading base/report/ir_model_report.xml 
+2023-12-06 23:01:41,238 6660 INFO restaurant odoo.modules.loading: loading base/report/ir_model_templates.xml 
+2023-12-06 23:01:41,252 6660 INFO restaurant odoo.modules.loading: loading base/views/ir_logging_views.xml 
+2023-12-06 23:01:41,276 6660 INFO restaurant odoo.modules.loading: loading base/views/ir_qweb_widget_templates.xml 
+2023-12-06 23:01:41,297 6660 INFO restaurant odoo.modules.loading: loading base/views/ir_module_views.xml 
+2023-12-06 23:01:41,356 6660 INFO restaurant odoo.modules.loading: loading base/data/ir_module_category_data.xml 
+2023-12-06 23:01:41,437 6660 INFO restaurant odoo.modules.loading: loading base/data/ir_module_module.xml 
+2023-12-06 23:01:41,516 6660 INFO restaurant odoo.modules.loading: loading base/report/ir_module_reports.xml 
+2023-12-06 23:01:41,526 6660 INFO restaurant odoo.modules.loading: loading base/report/ir_module_report_templates.xml 
+2023-12-06 23:01:41,538 6660 INFO restaurant odoo.modules.loading: loading base/wizard/base_module_update_views.xml 
+2023-12-06 23:01:41,556 6660 INFO restaurant odoo.modules.loading: loading base/wizard/base_language_install_views.xml 
+2023-12-06 23:01:41,574 6660 INFO restaurant odoo.modules.loading: loading base/wizard/base_import_language_views.xml 
+2023-12-06 23:01:41,592 6660 INFO restaurant odoo.modules.loading: loading base/wizard/base_module_upgrade_views.xml 
+2023-12-06 23:01:41,616 6660 INFO restaurant odoo.modules.loading: loading base/wizard/base_module_uninstall_views.xml 
+2023-12-06 23:01:41,628 6660 INFO restaurant odoo.modules.loading: loading base/wizard/base_export_language_views.xml 
+2023-12-06 23:01:41,646 6660 INFO restaurant odoo.modules.loading: loading base/wizard/base_partner_merge_views.xml 
+2023-12-06 23:01:41,666 6660 INFO restaurant odoo.modules.loading: loading base/data/ir_demo_failure_data.xml 
+2023-12-06 23:01:41,688 6660 INFO restaurant odoo.modules.loading: loading base/views/ir_profile_views.xml 
+2023-12-06 23:01:41,716 6660 INFO restaurant odoo.modules.loading: loading base/views/res_company_views.xml 
+2023-12-06 23:01:41,743 6660 INFO restaurant odoo.modules.loading: loading base/views/res_lang_views.xml 
+2023-12-06 23:01:41,772 6660 INFO restaurant odoo.modules.loading: loading base/views/res_partner_views.xml 
+2023-12-06 23:01:41,895 6660 INFO restaurant odoo.modules.loading: loading base/views/res_bank_views.xml 
+2023-12-06 23:01:41,937 6660 INFO restaurant odoo.modules.loading: loading base/views/res_country_views.xml 
+2023-12-06 23:01:41,989 6660 INFO restaurant odoo.modules.loading: loading base/views/res_currency_views.xml 
+2023-12-06 23:01:42,036 6660 INFO restaurant odoo.modules.loading: loading base/views/res_users_views.xml 
+2023-12-06 23:01:42,162 6660 INFO restaurant odoo.modules.loading: loading base/views/res_users_identitycheck_views.xml 
+2023-12-06 23:01:42,179 6660 INFO restaurant odoo.modules.loading: loading base/views/ir_property_views.xml 
+2023-12-06 23:01:42,205 6660 INFO restaurant odoo.modules.loading: loading base/views/res_config_settings_views.xml 
+2023-12-06 23:01:42,219 6660 INFO restaurant odoo.modules.loading: loading base/views/report_paperformat_views.xml 
+2023-12-06 23:01:42,254 6660 INFO restaurant odoo.modules.loading: loading base/security/ir.model.access.csv 
+2023-12-06 23:01:42,398 6660 INFO restaurant odoo.modules.loading: Module base: loading demo 
+2023-12-06 23:01:42,398 6660 INFO restaurant odoo.modules.loading: loading base/data/res_users_demo.xml 
+2023-12-06 23:01:43,759 6660 INFO restaurant odoo.modules.loading: loading base/data/res_partner_bank_demo.xml 
+2023-12-06 23:01:43,772 6660 INFO restaurant odoo.modules.loading: loading base/data/res_currency_demo.xml 
+2023-12-06 23:01:43,784 6660 INFO restaurant odoo.modules.loading: loading base/data/res_currency_rate_demo.xml 
+2023-12-06 23:01:44,092 6660 INFO restaurant odoo.modules.loading: loading base/data/res_bank_demo.xml 
+2023-12-06 23:01:44,104 6660 INFO restaurant odoo.modules.loading: loading base/data/res_partner_demo.xml 
+2023-12-06 23:01:44,423 6660 INFO restaurant odoo.modules.loading: loading base/data/res_partner_image_demo.xml 
+2023-12-06 23:01:45,200 6660 INFO restaurant odoo.modules.loading: Module base loaded in 12.23s, 9026 queries (+9026 other) 
+2023-12-06 23:01:45,200 6660 INFO restaurant odoo.modules.loading: 1 modules loaded in 12.23s, 9026 queries (+9026 extra) 
+2023-12-06 23:01:45,240 6660 INFO restaurant odoo.modules.loading: updating modules list 
+2023-12-06 23:01:45,241 6660 INFO restaurant odoo.addons.base.models.ir_module: ALLOW access to module.update_list on [] to user __system__ #1 via n/a 
+2023-12-06 23:01:46,035 6660 INFO restaurant odoo.modules.loading: loading 11 modules... 
+2023-12-06 23:01:46,035 6660 INFO restaurant odoo.modules.loading: Loading module web (2/11) 
+2023-12-06 23:01:46,058 6660 INFO restaurant odoo.modules.registry: module web: creating or updating database tables 
+2023-12-06 23:01:46,719 6660 INFO restaurant odoo.modules.loading: loading web/security/ir.model.access.csv 
+2023-12-06 23:01:46,741 6660 INFO restaurant odoo.modules.loading: loading web/views/webclient_templates.xml 
+2023-12-06 23:01:46,827 6660 INFO restaurant odoo.modules.loading: loading web/views/report_templates.xml 
+2023-12-06 23:01:46,910 6660 INFO restaurant odoo.modules.loading: loading web/views/base_document_layout_views.xml 
+2023-12-06 23:01:46,932 6660 INFO restaurant odoo.modules.loading: loading web/views/partner_view.xml 
+2023-12-06 23:01:46,943 6660 INFO restaurant odoo.modules.loading: loading web/views/speedscope_template.xml 
+2023-12-06 23:01:46,955 6660 INFO restaurant odoo.modules.loading: loading web/views/neutralize_views.xml 
+2023-12-06 23:01:46,966 6660 INFO restaurant odoo.modules.loading: loading web/data/ir_attachment.xml 
+2023-12-06 23:01:46,980 6660 INFO restaurant odoo.modules.loading: loading web/data/report_layout.xml 
+2023-12-06 23:01:47,039 6660 INFO restaurant odoo.modules.loading: Module web loaded in 1.00s, 941 queries (+941 other) 
+2023-12-06 23:01:47,039 6660 INFO restaurant odoo.modules.loading: Loading module auth_totp (3/11) 
+2023-12-06 23:01:47,151 6660 INFO restaurant odoo.modules.registry: module auth_totp: creating or updating database tables 
+2023-12-06 23:01:47,244 6660 INFO restaurant odoo.modules.loading: loading auth_totp/security/security.xml 
+2023-12-06 23:01:47,281 6660 INFO restaurant odoo.modules.loading: loading auth_totp/security/ir.model.access.csv 
+2023-12-06 23:01:47,297 6660 INFO restaurant odoo.modules.loading: loading auth_totp/data/ir_action_data.xml 
+2023-12-06 23:01:47,313 6660 INFO restaurant odoo.modules.loading: loading auth_totp/views/res_users_views.xml 
+2023-12-06 23:01:47,348 6660 INFO restaurant odoo.modules.loading: loading auth_totp/views/templates.xml 
+2023-12-06 23:01:47,361 6660 INFO restaurant odoo.modules.loading: loading auth_totp/wizard/auth_totp_wizard_views.xml 
+2023-12-06 23:01:47,391 6660 INFO restaurant odoo.modules.loading: Module auth_totp loaded in 0.35s, 173 queries (+173 other) 
+2023-12-06 23:01:47,392 6660 INFO restaurant odoo.modules.loading: Loading module base_import (4/11) 
+2023-12-06 23:01:47,438 6660 INFO restaurant odoo.modules.registry: module base_import: creating or updating database tables 
+2023-12-06 23:01:48,110 6660 INFO restaurant odoo.modules.loading: loading base_import/security/ir.model.access.csv 
+2023-12-06 23:01:48,139 6660 INFO restaurant odoo.modules.loading: Module base_import loaded in 0.75s, 753 queries (+753 other) 
+2023-12-06 23:01:48,139 6660 INFO restaurant odoo.modules.loading: Loading module base_import_module (5/11) 
+2023-12-06 23:01:48,173 6660 INFO restaurant odoo.modules.registry: module base_import_module: creating or updating database tables 
+2023-12-06 23:01:48,253 6660 INFO restaurant odoo.modules.loading: loading base_import_module/security/ir.model.access.csv 
+2023-12-06 23:01:48,269 6660 INFO restaurant odoo.modules.loading: loading base_import_module/views/base_import_module_view.xml 
+2023-12-06 23:01:48,293 6660 INFO restaurant odoo.modules.loading: loading base_import_module/views/ir_module_views.xml 
+2023-12-06 23:01:48,347 6660 INFO restaurant odoo.modules.loading: Module base_import_module loaded in 0.21s, 142 queries (+142 other) 
+2023-12-06 23:01:48,347 6660 INFO restaurant odoo.modules.loading: Loading module base_setup (6/11) 
+2023-12-06 23:01:48,377 6660 INFO restaurant odoo.modules.registry: module base_setup: creating or updating database tables 
+2023-12-06 23:01:48,469 6660 INFO restaurant odoo.modules.loading: loading base_setup/data/base_setup_data.xml 
+2023-12-06 23:01:48,481 6660 INFO restaurant odoo.modules.loading: loading base_setup/views/res_config_settings_views.xml 
+2023-12-06 23:01:48,519 6660 INFO restaurant odoo.modules.loading: loading base_setup/views/res_partner_views.xml 
+2023-12-06 23:01:48,546 6660 INFO restaurant odoo.modules.loading: Module base_setup loaded in 0.20s, 137 queries (+137 other) 
+2023-12-06 23:01:48,547 6660 INFO restaurant odoo.modules.loading: Loading module bus (7/11) 
+2023-12-06 23:01:48,597 6660 INFO restaurant odoo.modules.registry: module bus: creating or updating database tables 
+2023-12-06 23:01:48,709 6660 INFO restaurant odoo.modules.loading: loading bus/security/ir.model.access.csv 
+2023-12-06 23:01:48,740 6660 INFO restaurant odoo.modules.loading: Module bus loaded in 0.19s, 107 queries (+107 other) 
+2023-12-06 23:01:48,740 6660 INFO restaurant odoo.modules.loading: Loading module web_tour (8/11) 
+2023-12-06 23:01:48,788 6660 INFO restaurant odoo.modules.registry: module web_tour: creating or updating database tables 
+2023-12-06 23:01:48,828 6660 INFO restaurant odoo.modules.loading: loading web_tour/security/ir.model.access.csv 
+2023-12-06 23:01:48,846 6660 INFO restaurant odoo.modules.loading: loading web_tour/security/ir.rule.csv 
+2023-12-06 23:01:48,861 6660 INFO restaurant odoo.modules.loading: loading web_tour/views/tour_views.xml 
+2023-12-06 23:01:48,903 6660 INFO restaurant odoo.modules.loading: Module web_tour loaded in 0.16s, 103 queries (+103 other) 
+2023-12-06 23:01:48,903 6660 INFO restaurant odoo.modules.loading: Loading module iap (9/11) 
+2023-12-06 23:01:48,935 6660 INFO restaurant odoo.modules.registry: module iap: creating or updating database tables 
+2023-12-06 23:01:49,042 6660 INFO restaurant odoo.modules.loading: loading iap/security/ir.model.access.csv 
+2023-12-06 23:01:49,060 6660 INFO restaurant odoo.modules.loading: loading iap/security/ir_rule.xml 
+2023-12-06 23:01:49,076 6660 INFO restaurant odoo.modules.loading: loading iap/views/iap_views.xml 
+2023-12-06 23:01:49,118 6660 INFO restaurant odoo.modules.loading: loading iap/views/res_config_settings.xml 
+2023-12-06 23:01:49,158 6660 INFO restaurant odoo.modules.loading: Module iap loaded in 0.26s, 150 queries (+150 other) 
+2023-12-06 23:01:49,159 6660 INFO restaurant odoo.modules.loading: Loading module web_editor (10/11) 
+2023-12-06 23:01:49,467 6660 INFO restaurant odoo.modules.registry: module web_editor: creating or updating database tables 
+2023-12-06 23:01:50,186 6660 INFO restaurant odoo.modules.loading: loading web_editor/security/ir.model.access.csv 
+2023-12-06 23:01:50,206 6660 INFO restaurant odoo.modules.loading: loading web_editor/data/editor_assets.xml 
+2023-12-06 23:01:50,219 6660 INFO restaurant odoo.modules.loading: loading web_editor/views/editor.xml 
+2023-12-06 23:01:50,242 6660 INFO restaurant odoo.modules.loading: loading web_editor/views/snippets.xml 
+2023-12-06 23:01:50,303 6660 INFO restaurant odoo.modules.loading: Module web_editor loaded in 1.14s, 859 queries (+859 other) 
+2023-12-06 23:01:50,303 6660 INFO restaurant odoo.modules.loading: Loading module web_unsplash (11/11) 
+2023-12-06 23:01:50,384 6660 INFO restaurant odoo.modules.registry: module web_unsplash: creating or updating database tables 
+2023-12-06 23:01:50,444 6660 INFO restaurant odoo.modules.loading: loading web_unsplash/views/res_config_settings_view.xml 
+2023-12-06 23:01:50,484 6660 INFO restaurant odoo.modules.loading: Module web_unsplash loaded in 0.18s, 93 queries (+93 other) 
+2023-12-06 23:01:50,484 6660 INFO restaurant odoo.modules.loading: 11 modules loaded in 4.45s, 3458 queries (+3458 extra) 
+2023-12-06 23:01:50,816 6660 INFO restaurant odoo.modules.loading: Modules loaded. 
+2023-12-06 23:01:50,820 6660 INFO restaurant odoo.modules.registry: Registry loaded in 17.868s 
+2023-12-06 23:01:51,531 6660 INFO restaurant odoo.addons.base.models.res_users: Login successful for db:restaurant login:canhhungqtqb1@gmail.com from 127.0.0.1 
+2023-12-06 23:01:51,543 6660 INFO restaurant werkzeug: 127.0.0.1 - - [06/Dec/2023 23:01:51] "POST /web/database/create HTTP/1.1" 303 - 17818 11.875 9.291
+2023-12-06 23:01:51,557 6660 INFO restaurant odoo.addons.base.models.ir_http: Generating routing map for key None 
+2023-12-06 23:01:51,589 6660 INFO restaurant werkzeug: 127.0.0.1 - - [06/Dec/2023 23:01:51] "GET /web HTTP/1.1" 303 - 5 0.003 0.038
+2023-12-06 23:01:51,909 6660 INFO restaurant werkzeug: 127.0.0.1 - - [06/Dec/2023 23:01:51] "GET /web/login HTTP/1.1" 200 - 50 0.024 0.286
+2023-12-06 23:01:52,163 6660 INFO restaurant odoo.addons.base.models.assetsbundle: Generating a new asset bundle attachment /web/assets/7f4e4c0/web.assets_frontend_minimal.min.js (id:188) 
+2023-12-06 23:01:52,176 6660 INFO restaurant werkzeug: 127.0.0.1 - - [06/Dec/2023 23:01:52] "GET /web/assets/7f4e4c0/web.assets_frontend_minimal.min.js HTTP/1.1" 200 - 12 0.027 0.204
+2023-12-06 23:02:00,607 6660 INFO restaurant odoo.addons.base.models.assetsbundle: Generating a new asset bundle attachment /web/assets/25c2956/web.assets_frontend.min.css (id:189) 
+2023-12-06 23:02:00,618 6660 INFO restaurant werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:00] "GET /web/assets/25c2956/web.assets_frontend.min.css HTTP/1.1" 200 - 9 0.021 8.653
+2023-12-06 23:02:00,626 6660 INFO restaurant werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:00] "GET /web/binary/company_logo HTTP/1.1" 200 - 2 0.001 0.003
+2023-12-06 23:02:03,999 6660 INFO restaurant odoo.addons.base.models.assetsbundle: Generating a new asset bundle attachment /web/assets/bea6f23/web.assets_frontend_lazy.min.js (id:190) 
+2023-12-06 23:02:04,218 6660 INFO restaurant werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:04] "GET /web/assets/bea6f23/web.assets_frontend_lazy.min.js HTTP/1.1" 200 - 9 0.003 3.528
+2023-12-06 23:02:04,358 6660 INFO restaurant werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:04] "GET /web/webclient/translations/1701903724342 HTTP/1.1" 200 - 4 0.003 0.010
+2023-12-06 23:02:04,380 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:04] "GET /web/static/img/spin.svg HTTP/1.1" 200 - 0 0.000 0.007
+2023-12-06 23:02:11,708 6660 INFO restaurant odoo.addons.base.models.res_users: Login successful for db:restaurant login:canhhungqtqb1@gmail.com from 127.0.0.1 
+2023-12-06 23:02:11,714 6660 INFO restaurant werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:11] "POST /web/login HTTP/1.1" 303 - 26 0.034 0.349
+2023-12-06 23:02:11,955 6660 INFO restaurant werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:11] "GET /web HTTP/1.1" 200 - 59 0.035 0.199
+2023-12-06 23:02:23,029 6660 INFO restaurant odoo.addons.base.models.assetsbundle: Generating a new asset bundle attachment /web/assets/266d243/web.assets_web.min.css (id:191) 
+2023-12-06 23:02:23,076 6660 INFO restaurant werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:23] "GET /web/assets/266d243/web.assets_web.min.css HTTP/1.1" 200 - 12 0.031 11.048
+2023-12-06 23:02:27,194 6660 INFO restaurant odoo.addons.base.models.assetsbundle: Generating a new asset bundle attachment /web/assets/f6b089e/web.assets_web.min.js (id:192) 
+2023-12-06 23:02:27,775 6660 INFO restaurant werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:27] "GET /web/assets/f6b089e/web.assets_web.min.js HTTP/1.1" 200 - 11 0.006 15.770
+2023-12-06 23:02:27,798 6660 INFO restaurant werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:27] "GET /web/webclient/load_menus/172bef6a7af96680ac3a6d836ca7e789cae2e213afe9556bbb3468597f3484c3 HTTP/1.1" 200 - 1 0.001 0.004
+2023-12-06 23:02:27,800 6660 INFO restaurant werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:27] "GET /web/webclient/translations/c097a4426362f8e75854b784c5418b565eb85939?lang=en_US HTTP/1.1" 200 - 3 0.003 0.005
+2023-12-06 23:02:27,801 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:27] "GET /web/static/img/odoo-icon-ios.png HTTP/1.1" 200 - 0 0.000 0.010
+2023-12-06 23:02:28,079 6660 INFO restaurant werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:28] "GET /web/service-worker.js HTTP/1.1" 200 - 1 0.000 0.009
+2023-12-06 23:02:28,099 6660 INFO restaurant odoo.addons.base.models.assetsbundle: Generating a new asset bundle attachment /web/assets/9ff9461/bus.websocket_worker_assets.min.js (id:193) 
+2023-12-06 23:02:28,111 6660 INFO restaurant werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:28] "GET /bus/websocket_worker_bundle?v=1.0.7 HTTP/1.1" 200 - 8 0.005 0.035
+2023-12-06 23:02:28,301 6660 INFO restaurant werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:28] "GET /websocket HTTP/1.1" 101 - 1 0.000 0.006
+2023-12-06 23:02:28,308 6660 INFO restaurant werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:28] "GET /web/offline HTTP/1.1" 200 - 6 0.003 0.015
+2023-12-06 23:02:28,313 6660 INFO ? odoo.addons.bus.models.bus: Bus.loop listen imbus on db postgres 
+2023-12-06 23:02:29,060 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:29] "GET /web/static/lib/odoo_ui_icons/fonts/odoo_ui_icons.woff2 HTTP/1.1" 200 - 0 0.000 0.014
+2023-12-06 23:02:29,089 6660 INFO restaurant werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:29] "POST /web/action/load HTTP/1.1" 200 - 9 0.023 0.029
+2023-12-06 23:02:29,118 6660 INFO restaurant werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:29] "GET /web/image?model=res.users&field=avatar_128&id=2 HTTP/1.1" 200 - 9 0.011 0.066
+2023-12-06 23:02:30,109 6660 INFO restaurant werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:30] "POST /web/dataset/call_kw/ir.module.module/get_views HTTP/1.1" 200 - 47 0.025 0.030
+2023-12-06 23:02:30,126 6660 INFO restaurant werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:30] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 1 0.000 0.003
+2023-12-06 23:02:30,155 6660 INFO restaurant werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:30] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 39 0.018 0.013
+2023-12-06 23:02:30,432 6660 INFO restaurant werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:30] "POST /web/dataset/call_kw/ir.module.module/web_search_read HTTP/1.1" 200 - 4 0.006 0.300
+2023-12-06 23:02:30,489 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:30] "GET /base/static/img/avatar.png HTTP/1.1" 200 - 0 0.000 0.006
+2023-12-06 23:02:32,253 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /sale_management/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.006
+2023-12-06 23:02:32,258 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /crm/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.009
+2023-12-06 23:02:32,260 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /pos_restaurant/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.012
+2023-12-06 23:02:32,261 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /account/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.010
+2023-12-06 23:02:32,263 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /website/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.009
+2023-12-06 23:02:32,266 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /base/static/img/icons/mrp_workorder.png HTTP/1.1" 200 - 0 0.000 0.009
+2023-12-06 23:02:32,269 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /stock/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.007
+2023-12-06 23:02:32,272 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /base/static/img/icons/account_accountant.png HTTP/1.1" 200 - 0 0.000 0.008
+2023-12-06 23:02:32,277 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /purchase/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.007
+2023-12-06 23:02:32,278 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /base/static/img/icons/knowledge.png HTTP/1.1" 200 - 0 0.000 0.010
+2023-12-06 23:02:32,285 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /point_of_sale/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.012
+2023-12-06 23:02:32,285 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /project/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.009
+2023-12-06 23:02:32,288 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /website_sale/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.011
+2023-12-06 23:02:32,289 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /mrp/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.009
+2023-12-06 23:02:32,292 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /mass_mailing/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.009
+2023-12-06 23:02:32,295 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /base/static/img/icons/timesheet_grid.png HTTP/1.1" 200 - 0 0.000 0.008
+2023-12-06 23:02:32,301 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /hr_expense/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.009
+2023-12-06 23:02:32,305 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /hr_holidays/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.009
+2023-12-06 23:02:32,305 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /base/static/img/icons/web_studio.png HTTP/1.1" 200 - 0 0.000 0.012
+2023-12-06 23:02:32,309 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /hr_recruitment/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.009
+2023-12-06 23:02:32,315 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /base/static/img/icons/industry_fsm.png HTTP/1.1" 200 - 0 0.000 0.012
+2023-12-06 23:02:32,315 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /data_recycle/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.009
+2023-12-06 23:02:32,318 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /hr/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.014
+2023-12-06 23:02:32,319 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /maintenance/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.009
+2023-12-06 23:02:32,325 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /base/static/img/icons/helpdesk.png HTTP/1.1" 200 - 0 0.000 0.009
+2023-12-06 23:02:32,325 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /base/static/img/icons/sign.png HTTP/1.1" 200 - 0 0.000 0.012
+2023-12-06 23:02:32,329 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /base/static/img/icons/sale_subscription.png HTTP/1.1" 200 - 0 0.000 0.008
+2023-12-06 23:02:32,333 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /base/static/img/icons/quality_control.png HTTP/1.1" 200 - 0 0.000 0.010
+2023-12-06 23:02:32,336 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /website_slides/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.010
+2023-12-06 23:02:32,338 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /base/static/img/icons/planning.png HTTP/1.1" 200 - 0 0.000 0.011
+2023-12-06 23:02:32,341 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /website_event/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.011
+2023-12-06 23:02:32,346 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /mail/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.013
+2023-12-06 23:02:32,349 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /contacts/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.012
+2023-12-06 23:02:32,352 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /base/static/img/icons/mrp_plm.png HTTP/1.1" 200 - 0 0.000 0.010
+2023-12-06 23:02:32,354 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /base/static/img/icons/hr_appraisal.png HTTP/1.1" 200 - 0 0.000 0.006
+2023-12-06 23:02:32,356 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /calendar/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.010
+2023-12-06 23:02:32,357 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /base/static/img/icons/social.png HTTP/1.1" 200 - 0 0.000 0.011
+2023-12-06 23:02:32,360 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /fleet/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.008
+2023-12-06 23:02:32,365 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /base/static/img/icons/marketing_automation.png HTTP/1.1" 200 - 0 0.000 0.008
+2023-12-06 23:02:32,367 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /im_livechat/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.007
+2023-12-06 23:02:32,371 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /base/static/img/icons/appointment.png HTTP/1.1" 200 - 0 0.000 0.008
+2023-12-06 23:02:32,374 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /survey/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.010
+2023-12-06 23:02:32,375 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /base/static/img/icons/web_mobile.png HTTP/1.1" 200 - 0 0.000 0.008
+2023-12-06 23:02:32,377 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /repair/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.007
+2023-12-06 23:02:32,381 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /hr_attendance/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.009
+2023-12-06 23:02:32,382 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /mass_mailing_sms/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.005
+2023-12-06 23:02:32,388 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /base/static/img/icons/stock_barcode.png HTTP/1.1" 200 - 0 0.000 0.009
+2023-12-06 23:02:32,391 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /project_todo/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.008
+2023-12-06 23:02:32,394 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /hr_skills/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.008
+2023-12-06 23:02:32,395 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /base/static/img/icons/voip.png HTTP/1.1" 200 - 0 0.000 0.006
+2023-12-06 23:02:32,397 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /lunch/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.007
+2023-12-06 23:02:32,401 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /website_hr_recruitment/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.010
+2023-12-06 23:02:32,403 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /base/static/img/icons/sale_amazon.png HTTP/1.1" 200 - 0 0.000 0.008
+2023-12-06 23:02:32,405 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /base/static/img/icons/sale_ebay.png HTTP/1.1" 200 - 0 0.000 0.006
+2023-12-06 23:02:32,405 6660 INFO ? werkzeug: 127.0.0.1 - - [06/Dec/2023 23:02:32] "GET /hr_contract/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.005
